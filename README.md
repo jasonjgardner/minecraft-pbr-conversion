@@ -16,12 +16,7 @@ A TypeScript Node library for bidirectional conversion between Minecraft Bedrock
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/pbr-converter.git
-
-# Install dependencies
-cd pbr-converter
-npm install
+npm install minecraft-pbr-converter
 ```
 
 ## Usage
@@ -66,7 +61,7 @@ node dist/bidirectional/bidirectionalCli.js convert-dir path/to/textures/dir -o 
 ### Programmatic Usage
 
 ```typescript
-import { BidirectionalConverter } from './dist';
+import { BidirectionalConverter } from 'minecraft-pbr-converter';
 
 // Automatic format detection and conversion
 const result = await BidirectionalConverter.convertAuto(
