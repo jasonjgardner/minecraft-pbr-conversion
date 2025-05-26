@@ -16,12 +16,7 @@ A TypeScript Node library for bidirectional conversion between Minecraft Bedrock
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/pbr-converter.git
-
-# Install dependencies
-cd pbr-converter
-npm install
+npx https://github.com/jasonjgardner/minecraft-pbr-conversion
 ```
 
 ## Usage
