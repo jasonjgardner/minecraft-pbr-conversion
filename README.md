@@ -110,4 +110,7 @@ The library performs the following conversions:
 
 ## License
 
-MIT
+GPL
+
+---
+[![Made with Manus](https://github.com/user-attachments/assets/7e5abadf-b44d-44b2-b95d-4550598f1c64)](https://manus.im/share/jHAeAUNTk4v0ca0kLXiRwx?replay=1)
